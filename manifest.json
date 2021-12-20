@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://boredapeyachtclub-bsc.github.io/DAYC/",
+  "start_url": "DAYC/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
